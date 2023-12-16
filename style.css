@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+.content{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.b-img{
+    background-image: url("https://png.pngtree.com/png-clipart/20201016/ourmid/pngtree-rustic-flower-graphic-png-image_2368863.jpg");
+    background-color: aqua;
+    background-size: cover;
+    background-position: center;
+    height: 525px;
+    background-repeat: no-repeat;
+}

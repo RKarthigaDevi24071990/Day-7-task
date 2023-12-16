@@ -1,0 +1,1 @@
+Road Map of day 7 Task has been done by using MRF method and Foreach method.
